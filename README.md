@@ -70,3 +70,10 @@ used histplots to check and visualize the wage distributions
 Semantics: What is the meaning of the columns? Are any columns related to other columns? (If so, how?)
 used a heatmap to check the numeric column relationships between them
     The columns values from WAGE_YEAR1 and WAGE_YEAR4 represent the annual earnings. These columns show that they are semantically related, meaning each year's wage depends on the previous year for yearly income progression. The heatmap shows a column relationship of strong positive correlation, which are ranging between 0.8-0.9. This means that each individual who had higher earnings in the early years tend to earn more in later years.
+
+For all of these images below, cmd+click:
+![alt text](image.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
